@@ -1,8 +1,14 @@
+---
+output: 
+  html_document:
+    keep_md: true
+---
 -------------------------------------------------------------------
 Title: "PA1_template.Rmd"
 author: "Angela Lomba"
 date: "22/09/2020"
-output: html_document
+output: md_document
+variant: markdown_github
 -------------------------------------------------------------------
 
 This RMarkdown document describes the analysis to return the results of the requirements as defined for the 'Reproducible Research' course Assignment 1. Instructions for the assignment are provided here: https://www.coursera.org/learn/reproducible-research/peer/gYyPt/course-project-1. Data used for the assignment were retrieved from https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip (downloaded in 22/09/2020 at 17:42 GMT+1).
